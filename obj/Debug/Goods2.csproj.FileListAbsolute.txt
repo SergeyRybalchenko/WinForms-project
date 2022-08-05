@@ -1,0 +1,34 @@
+C:\Users\MagicBook\source\repos\Goods2\bin\Debug\Goods2.exe.config
+C:\Users\MagicBook\source\repos\Goods2\bin\Debug\Goods2.exe
+C:\Users\MagicBook\source\repos\Goods2\bin\Debug\Goods2.pdb
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.csprojAssemblyReference.cache
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Properties.Resources.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.csproj.GenerateResource.cache
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.csproj.CoreCompileInputs.cache
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.exe
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.pdb
+C:\Users\MagicBook\source\repos\Goods2\bin\Debug\Tovary.mdb
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form1.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form2.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form3.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form4.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form5.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form6.resources
+C:\Users\MagicBook\source\repos\Goods2\obj\Debug\Goods2.Form7.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\bin\Debug\Tovary.mdb
+C:\Users\MagicBook\source\repos\Goods (полная)\bin\Debug\Goods2.exe.config
+C:\Users\MagicBook\source\repos\Goods (полная)\bin\Debug\Goods2.exe
+C:\Users\MagicBook\source\repos\Goods (полная)\bin\Debug\Goods2.pdb
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.csprojAssemblyReference.cache
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form1.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form2.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form3.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form4.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form5.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form6.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Form7.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.Properties.Resources.resources
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.csproj.GenerateResource.cache
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.csproj.CoreCompileInputs.cache
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.exe
+C:\Users\MagicBook\source\repos\Goods (полная)\obj\Debug\Goods2.pdb
